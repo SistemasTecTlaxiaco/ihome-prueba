@@ -17,12 +17,16 @@
   "devDependencies": {
     "jest": "^27.3.1",
     "jest-environment-node": "^27.3.1",
-    "near-sdk-as": "3.2.3",
     "near-cli": "^2.2.0",
+    "near-sdk-as": "3.2.3",
     "parcel-bundler": "^1.12.5"
   },
   "dependencies": {
+    "bootstrap": "^5.2.2",
+    "bootstrap-icons": "^1.9.1",
     "near-api-js": "^0.43.1",
+    "react-bootstrap": "^2.6.0",
+    "react-toastify": "^9.1.1",
     "regenerator-runtime": "^0.13.9"
   },
   "jest": {
